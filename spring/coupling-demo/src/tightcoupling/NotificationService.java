@@ -1,0 +1,9 @@
+package tightcoupling;
+
+public class NotificationService {
+    public void send(String message){
+        System.out.println("Notifiation"+message+"\n");
+
+
+    }
+}
